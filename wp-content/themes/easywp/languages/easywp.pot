@@ -1,0 +1,846 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: EasyWP\n"
+"POT-Creation-Date: 2018-03-06 00:31+0530\n"
+"PO-Revision-Date: 2018-03-06 00:30+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:18
+msgid "Oops! That page can not be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:28
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: %s: post title.
+#: admin/custom.php:34 template-parts/content-page.php:20
+#: template-parts/content-single.php:36
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: admin/customizer.php:74
+msgid "Theme Options"
+msgstr ""
+
+#: admin/customizer.php:87
+msgid "Getting Started"
+msgstr ""
+
+#: admin/customizer.php:87
+msgid ""
+"Thanks for your interest in EasyWP! If you have any questions or run into "
+"any trouble, please visit us the following links. We will get you fixed up!"
+msgstr ""
+
+#: admin/customizer.php:91
+msgid "Documentation"
+msgstr ""
+
+#: admin/customizer.php:95
+msgid "Contact Us"
+msgstr ""
+
+#: admin/customizer.php:99
+msgid "Main Text Color"
+msgstr ""
+
+#: admin/customizer.php:103
+msgid "Main Link Color"
+msgstr ""
+
+#: admin/customizer.php:107
+msgid "Main Link Hover Color"
+msgstr ""
+
+#: admin/customizer.php:111
+msgid "Header Background Color"
+msgstr ""
+
+#: admin/customizer.php:115
+msgid "Header Outer Border Color"
+msgstr ""
+
+#: admin/customizer.php:119
+msgid "Header Inner Border Color"
+msgstr ""
+
+#: admin/customizer.php:123
+msgid "Menu Background Color"
+msgstr ""
+
+#: admin/customizer.php:127
+msgid "Menu Border Color"
+msgstr ""
+
+#: admin/customizer.php:131
+msgid "Menu Link Color"
+msgstr ""
+
+#: admin/customizer.php:135
+msgid "Menu Link Hover Color"
+msgstr ""
+
+#: admin/customizer.php:139
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: admin/customizer.php:143
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: admin/customizer.php:147
+msgid "Responsive Menu Icon Color"
+msgstr ""
+
+#: admin/customizer.php:151
+msgid "Post Title Color"
+msgstr ""
+
+#: admin/customizer.php:155
+msgid "Post Title Hover Color"
+msgstr ""
+
+#: admin/customizer.php:159
+msgid "Read More Button Color"
+msgstr ""
+
+#: admin/customizer.php:163
+msgid "Read More Button Background Color"
+msgstr ""
+
+#: admin/customizer.php:167
+msgid "Read More Button Hover Color"
+msgstr ""
+
+#: admin/customizer.php:171
+msgid "Read More Button Hover Background Color"
+msgstr ""
+
+#: admin/customizer.php:175
+msgid "Sidebar Title Color"
+msgstr ""
+
+#: admin/customizer.php:179
+msgid "Sidebar Title Background Color"
+msgstr ""
+
+#: admin/customizer.php:183
+msgid "Sidebar Text Color"
+msgstr ""
+
+#: admin/customizer.php:187
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: admin/customizer.php:191
+msgid "Sidebar Link Hover Color"
+msgstr ""
+
+#: admin/customizer.php:195
+msgid "Footer Background Color"
+msgstr ""
+
+#: admin/customizer.php:199
+msgid "Footer Outer Border Color"
+msgstr ""
+
+#: admin/customizer.php:203
+msgid "Footer Inner Border Color"
+msgstr ""
+
+#: admin/customizer.php:207
+msgid "Footer Title Color"
+msgstr ""
+
+#: admin/customizer.php:211
+msgid "Footer Title Background Color"
+msgstr ""
+
+#: admin/customizer.php:215
+msgid "Footer Text Color"
+msgstr ""
+
+#: admin/customizer.php:219
+msgid "Footer Link Color"
+msgstr ""
+
+#: admin/customizer.php:223
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: admin/customizer.php:227
+msgid "Copyrights Color"
+msgstr ""
+
+#: admin/customizer.php:231
+msgid "Copyrights Background Color"
+msgstr ""
+
+#: admin/customizer.php:235
+msgid "Theme Credits Color"
+msgstr ""
+
+#: admin/customizer.php:237
+msgid "Post Options"
+msgstr ""
+
+#: admin/customizer.php:241
+msgid "Hide Entry Meta"
+msgstr ""
+
+#: admin/customizer.php:245
+msgid "Hide Posted Date"
+msgstr ""
+
+#: admin/customizer.php:249
+msgid "Hide Post Author"
+msgstr ""
+
+#: admin/customizer.php:253
+msgid "Hide Post Categories"
+msgstr ""
+
+#: admin/customizer.php:257
+msgid "Hide Post Tags"
+msgstr ""
+
+#: admin/customizer.php:261
+msgid "Hide Comment Link"
+msgstr ""
+
+#: admin/customizer.php:265
+msgid "Hide Thumbnails from Every Page"
+msgstr ""
+
+#: admin/customizer.php:269
+msgid "Hide Thumbnails from Posts/Pages"
+msgstr ""
+
+#: admin/customizer.php:273
+msgid "Hide Read More Button"
+msgstr ""
+
+#: admin/customizer.php:277
+msgid "Thumbnail Link"
+msgstr ""
+
+#: admin/customizer.php:277
+msgid "Do you want thumbnails to be linked to their post?"
+msgstr ""
+
+#: admin/customizer.php:277
+msgid "Yes"
+msgstr ""
+
+#: admin/customizer.php:277
+msgid "No"
+msgstr ""
+
+#: admin/customizer.php:281
+msgid "Post Content"
+msgstr ""
+
+#: admin/customizer.php:281
+msgid ""
+"<b>Show content</b> will show the whole post content while <b>show excerpt</"
+"b> will only show the first few lines"
+msgstr ""
+
+#: admin/customizer.php:281
+msgid "Show excerpt"
+msgstr ""
+
+#: admin/customizer.php:281
+msgid "Show content"
+msgstr ""
+
+#: admin/customizer.php:285
+msgid "Read More Text"
+msgstr ""
+
+#: admin/customizer.php:287
+msgid "Social Links"
+msgstr ""
+
+#: admin/customizer.php:291
+msgid "Hide Social Buttons"
+msgstr ""
+
+#: admin/customizer.php:295
+msgid "Twitter URL"
+msgstr ""
+
+#: admin/customizer.php:299
+msgid "Facebook URL"
+msgstr ""
+
+#: admin/customizer.php:303
+msgid "Google Plus URL"
+msgstr ""
+
+#: admin/customizer.php:307
+msgid "Pinterest URL"
+msgstr ""
+
+#: admin/customizer.php:311
+msgid "Linkedin Link"
+msgstr ""
+
+#: admin/customizer.php:315
+msgid "Instagram Link"
+msgstr ""
+
+#: admin/customizer.php:319
+msgid "Flickr Link"
+msgstr ""
+
+#: admin/customizer.php:323
+msgid "Youtube URL"
+msgstr ""
+
+#: admin/customizer.php:327
+msgid "Vimeo URL"
+msgstr ""
+
+#: admin/customizer.php:331
+msgid "Soundcloud URL"
+msgstr ""
+
+#: admin/customizer.php:335
+msgid "Lastfm URL"
+msgstr ""
+
+#: admin/customizer.php:339
+msgid "Github URL"
+msgstr ""
+
+#: admin/customizer.php:343
+msgid "Bitbucket URL"
+msgstr ""
+
+#: admin/customizer.php:347
+msgid "Tumblr URL"
+msgstr ""
+
+#: admin/customizer.php:351
+msgid "Digg URL"
+msgstr ""
+
+#: admin/customizer.php:355
+msgid "Delicious URL"
+msgstr ""
+
+#: admin/customizer.php:359
+msgid "Stumbleupon Link"
+msgstr ""
+
+#: admin/customizer.php:363
+msgid "Reddit Link"
+msgstr ""
+
+#: admin/customizer.php:367
+msgid "Dribbble Link"
+msgstr ""
+
+#: admin/customizer.php:371
+msgid "Behance Link"
+msgstr ""
+
+#: admin/customizer.php:375
+msgid "Codepen Link"
+msgstr ""
+
+#: admin/customizer.php:379
+msgid "JSFiddle Link"
+msgstr ""
+
+#: admin/customizer.php:383
+msgid "Stack Overflow Link"
+msgstr ""
+
+#: admin/customizer.php:387
+msgid "Stack Exchange Link"
+msgstr ""
+
+#: admin/customizer.php:391
+msgid "BuySellAds Link"
+msgstr ""
+
+#: admin/customizer.php:395
+msgid "SlideShare Link"
+msgstr ""
+
+#: admin/customizer.php:399
+msgid "Skype Username"
+msgstr ""
+
+#: admin/customizer.php:403
+msgid "Email Address"
+msgstr ""
+
+#: admin/customizer.php:407
+msgid "RSS Feed URL"
+msgstr ""
+
+#: admin/customizer.php:409
+msgid "Footer"
+msgstr ""
+
+#: admin/customizer.php:413
+msgid "Footer copyright notice"
+msgstr ""
+
+#: admin/customizer.php:415
+msgid "Upgrade to Pro Version"
+msgstr ""
+
+#: admin/customizer.php:420
+msgid "EasyWP Pro"
+msgstr ""
+
+#: admin/customizer.php:423
+msgid "Do you enjoy EasyWP? Upgrade to EasyWP Pro now and get:"
+msgstr ""
+
+#: admin/customizer.php:425
+msgid "Font Options / Google Web Fonts"
+msgstr ""
+
+#: admin/customizer.php:426
+msgid "More Color Options"
+msgstr ""
+
+#: admin/customizer.php:427
+msgid ""
+"Custom Widgets (Social Widget, About Me Widget, Recent/Popular/Random Posts "
+"widgets with thumbnails)"
+msgstr ""
+
+#: admin/customizer.php:428
+msgid "Related Posts with thumbnails"
+msgstr ""
+
+#: admin/customizer.php:429
+msgid "2 Header Layouts (full-width header or header+728x90 ad)"
+msgstr ""
+
+#: admin/customizer.php:430
+msgid "Search Engine Optimized"
+msgstr ""
+
+#: admin/customizer.php:431
+msgid "Custom Page Templates"
+msgstr ""
+
+#: admin/customizer.php:432
+msgid "Post Share Buttons"
+msgstr ""
+
+#: admin/customizer.php:433
+msgid "Author Bio Box with Social Buttons"
+msgstr ""
+
+#: admin/customizer.php:434
+msgid "WooCommerce Support"
+msgstr ""
+
+#: admin/customizer.php:435
+msgid "More Customizer options"
+msgstr ""
+
+#: admin/customizer.php:436
+msgid "More Features..."
+msgstr ""
+
+#: admin/customizer.php:437
+msgid "Priority Support"
+msgstr ""
+
+#: admin/customizer.php:439
+msgid "Upgrade To EasyWP PRO"
+msgstr ""
+
+#. translators: %s: post author.
+#: admin/template-tags.php:26
+#, php-format
+msgctxt "post author"
+msgid "<i class=\"fa fa-user\" aria-hidden=\"true\"></i> by %s"
+msgstr ""
+
+#. translators: %s: post date.
+#: admin/template-tags.php:31
+#, php-format
+msgctxt "post date"
+msgid "<i class=\"fa fa-calendar\" aria-hidden=\"true\"></i> Posted on %s"
+msgstr ""
+
+#: admin/template-tags.php:39
+msgid "Leave a comment"
+msgstr ""
+
+#: admin/template-tags.php:39
+msgid "1 Comment"
+msgstr ""
+
+#: admin/template-tags.php:39
+msgid "% Comments"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: admin/template-tags.php:54
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: admin/template-tags.php:56
+#, php-format
+msgid "<i class=\"fa fa-folder-open\" aria-hidden=\"true\"></i> Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: admin/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: admin/template-tags.php:61
+#, php-format
+msgid "<i class=\"fa fa-tags\" aria-hidden=\"true\"></i> Tagged %1$s"
+msgstr ""
+
+#: admin/template-tags.php:64 template-parts/content-page.php:32
+msgid "Edit"
+msgstr ""
+
+#: archive.php:30 index.php:30 search.php:29
+msgid "&larr; Older posts"
+msgstr ""
+
+#: archive.php:30 index.php:30 search.php:29
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: %s: Year and site name.
+#: footer.php:31
+#, php-format
+msgid "Copyright &copy; %s"
+msgstr ""
+
+#: footer.php:31
+msgid "Y"
+msgstr ""
+
+#. translators: %s: Theme author.
+#: footer.php:34
+#, php-format
+msgid "Design by %s"
+msgstr ""
+
+#: functions.php:73
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:170
+msgid "Header Banner"
+msgstr ""
+
+#: functions.php:171
+msgid "This sidebar is located on the header of the web page."
+msgstr ""
+
+#: functions.php:179
+msgid "Left Sidebar"
+msgstr ""
+
+#: functions.php:180
+msgid "This sidebar is located on the left-hand side of web page."
+msgstr ""
+
+#: functions.php:188
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:189
+msgid "This sidebar is located on the right-hand side of web page."
+msgstr ""
+
+#: functions.php:197
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:198
+msgid "This sidebar is located on the left bottom of web page."
+msgstr ""
+
+#: functions.php:206
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:207 functions.php:216
+msgid "This sidebar is located on the middle bottom of web page."
+msgstr ""
+
+#: functions.php:215
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:224
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:225
+msgid "This sidebar is located on the right bottom of web page."
+msgstr ""
+
+#: functions.php:273
+msgid "Continue Reading..."
+msgstr ""
+
+#: header.php:72
+msgid "Twitter"
+msgstr ""
+
+#: header.php:74
+msgid "Facebook"
+msgstr ""
+
+#: header.php:76
+msgid "Google Plus"
+msgstr ""
+
+#: header.php:78
+msgid "Pinterest"
+msgstr ""
+
+#: header.php:80
+msgid "Linkedin"
+msgstr ""
+
+#: header.php:82
+msgid "Instagram"
+msgstr ""
+
+#: header.php:84
+msgid "Flickr"
+msgstr ""
+
+#: header.php:86
+msgid "Youtube"
+msgstr ""
+
+#: header.php:88
+msgid "Vimeo"
+msgstr ""
+
+#: header.php:90
+msgid "SoundCloud"
+msgstr ""
+
+#: header.php:92
+msgid "Lastfm"
+msgstr ""
+
+#: header.php:94
+msgid "Github"
+msgstr ""
+
+#: header.php:96
+msgid "Bitbucket"
+msgstr ""
+
+#: header.php:98
+msgid "Tumblr"
+msgstr ""
+
+#: header.php:100
+msgid "Digg"
+msgstr ""
+
+#: header.php:102
+msgid "Delicious"
+msgstr ""
+
+#: header.php:104
+msgid "Stumbleupon"
+msgstr ""
+
+#: header.php:106
+msgid "Reddit"
+msgstr ""
+
+#: header.php:108
+msgid "Dribbble"
+msgstr ""
+
+#: header.php:110
+msgid "Behance"
+msgstr ""
+
+#: header.php:112
+msgid "Codepen"
+msgstr ""
+
+#: header.php:114
+msgid "JSFiddle"
+msgstr ""
+
+#: header.php:116
+msgid "Stack Overflow"
+msgstr ""
+
+#: header.php:118
+msgid "Stack Exchange"
+msgstr ""
+
+#: header.php:120
+msgid "BuySellAds"
+msgstr ""
+
+#: header.php:122
+msgid "SlideShare"
+msgstr ""
+
+#: header.php:124
+msgid "Skype"
+msgstr ""
+
+#: header.php:126
+msgid "Email Us"
+msgstr ""
+
+#: header.php:128
+msgid "RSS"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:2
+msgid "Type and hit enter"
+msgstr ""
+
+#: searchform.php:5
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:6
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: single.php:21
+msgid "&larr; %title"
+msgstr ""
+
+#: single.php:21
+msgid "%title &rarr;"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-search.php:27
+#: template-parts/content-single.php:39 template-parts/content.php:27
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "EasyWP"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://themesdna.com/easywp-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"EasyWP is a simple and clean, user friendly, 3 columns, fully responsive "
+"WordPress blogging theme. It has various theme options to customize various "
+"aspects of the theme and has full-width layout, header widget area, left and "
+"right sidebars, 4 columns footer widgets area and social icons."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemesDNA"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://themesdna.com/"
+msgstr ""

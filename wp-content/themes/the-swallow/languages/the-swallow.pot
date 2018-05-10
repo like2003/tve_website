@@ -1,0 +1,1080 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: The Swallow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu May 19 2016 09:10:15 GMT+0200 (Srednjeevropski "
+"poletni čas  )\n"
+"POT-Revision-Date: Thu May 19 2016 09:10:28 GMT+0200 (Srednjeevropski "
+"poletni čas  )\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../header.php:39
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../functions.php:41
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:42
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../functions.php:96
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions.php:98
+msgid "Add widgets here to appear in page sidebar."
+msgstr ""
+
+#: ../functions.php:105
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:107
+msgid "Add widgets here to appear in blog sidebar."
+msgstr ""
+
+#: ../functions.php:114
+msgid "Footer Widget Area One"
+msgstr ""
+
+#: ../functions.php:116 ../functions.php:125 ../functions.php:134 ../functions.
+#: php:143
+msgid "Add widgets here to appear in the footer."
+msgstr ""
+
+#: ../functions.php:123
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: ../functions.php:132
+msgid "Footer Widget Area Three"
+msgstr ""
+
+#: ../functions.php:141
+msgid "Footer Widget Area Four"
+msgstr ""
+
+#: ../functions.php:272 ../ini/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions.php:273 ../ini/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions.php:274 ../ini/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions.php:275 ../ini/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions.php:276 ../ini/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:277 ../ini/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:278
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:279 ../ini/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:280 ../ini/class-tgm-plugin-activation.php:372
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:281
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:282 ../ini/class-tgm-plugin-activation.php:352
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:283
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:284 ../ini/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:285
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../functions.php:286 ../ini/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions.php:287 ../ini/class-tgm-plugin-activation.php:399 ../ini/class-
+#: tgm-plugin-activation.php:3021
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions.php:288
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#. Name of the template
+msgid "Right Sidebar Page"
+msgstr ""
+
+#: ../404.php:16
+msgid "404 Not Found"
+msgstr ""
+
+#: ../404.php:33
+msgid "This is somewhat embarrassing, isn't it?"
+msgstr ""
+
+#: ../404.php:34
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../search.php:19
+msgid "You have search for:"
+msgstr ""
+
+#: ../search.php:55
+msgid "Sorry, no maches for criteria"
+msgstr ""
+
+#: ../search.php:56
+msgid "Please try with another query"
+msgstr ""
+
+#: ../category.php:19
+msgid "Category:"
+msgstr ""
+
+#: ../category.php:59 ../index.php:54 ../archive.php:64 ../layout/layout-standard.
+#: php:16
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../footer.php:18
+msgid "From"
+msgstr ""
+
+#: ../footer.php:123
+msgid "All rights reserved"
+msgstr ""
+
+#: ../searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:15
+msgid "Search..."
+msgstr ""
+
+#: ../sidebar.php:17
+msgid "Please add content to Page Widget Area!"
+msgstr ""
+
+#: ../sidebar-blog.php:18
+msgid "Please add content to Sidebar Widget Area!"
+msgstr ""
+
+#: ../content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:15
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:24
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../index.php:47
+msgid "Newer posts"
+msgstr ""
+
+#: ../index.php:50
+msgid "Older posts"
+msgstr ""
+
+#: ../archive.php:22 ../archive.php:23
+msgid "Daily Archives"
+msgstr ""
+
+#: ../archive.php:25 ../archive.php:26
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../archive.php:28 ../archive.php:29
+msgid "Yearly Archives"
+msgstr ""
+
+#: ../archive.php:31 ../archive.php:32
+msgid "Archives"
+msgstr ""
+
+#. Name of the template
+msgid "Left Sidebar Page"
+msgstr ""
+
+#: ../comments.php:18
+#, php-format
+msgctxt "comments title"
+msgid "Comment (1)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:31
+msgid "Reply"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Send a reply"
+msgstr ""
+
+#: ../comments.php:49
+msgid "Reply comment"
+msgstr ""
+
+#: ../ini/customize-widgets.php:17
+msgid "Recent Posts"
+msgstr ""
+
+#: ../ini/template-tags.php:23
+msgid "On"
+msgstr ""
+
+#: ../ini/template-tags.php:23
+msgid "By"
+msgstr ""
+
+#: ../ini/template-tags.php:24
+#, php-format
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/template-tags.php:49 ../layout/2col.php:47 ../layout/4col.php:47 ..
+#: /layout/3col.php:47
+msgid "Read more"
+msgstr ""
+
+#: ../ini/template-tags.php:63
+msgid "Enter the page title in the cutomizer."
+msgstr ""
+
+#: ../ini/template-tags.php:65
+msgid "Enter the post subhead text"
+msgstr ""
+
+#: ../ini/template-tags.php:102
+msgid "Previous post"
+msgstr ""
+
+#: ../ini/template-tags.php:105
+msgid "Next post"
+msgstr ""
+
+#: ../ini/template-tags.php:122
+msgid "Share On Facebook"
+msgstr ""
+
+#: ../ini/template-tags.php:123
+msgid "Share On Twitter"
+msgstr ""
+
+#: ../ini/template-tags.php:124
+msgid "Share On Pinterest"
+msgstr ""
+
+#: ../ini/template-tags.php:125
+msgid "Share On Google+"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/class-tgm-plugin-activation.php:357
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/class-tgm-plugin-activation.php:362
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/class-tgm-plugin-activation.php:377
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:400 ../ini/class-tgm-plugin-activation.
+#: php:2824
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:820 ../ini/class-tgm-plugin-activation.
+#: php:3430
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:927
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:927 ../ini/class-tgm-plugin-activation.
+#: php:930
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:930
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:1108 ../ini/class-tgm-plugin-activation.
+#: php:2820
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:1873
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2159
+msgid "Required"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2162
+msgid "Recommended"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2178
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2181
+msgid "External Source"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2184
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2201
+msgid "Not Installed"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2205
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2207
+msgid "Active"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2213
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2216
+msgid "Requires Update"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2219
+msgid "Update recommended"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2227
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2272
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/class-tgm-plugin-activation.php:2275
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/class-tgm-plugin-activation.php:2278
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/class-tgm-plugin-activation.php:2281
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../ini/class-tgm-plugin-activation.php:2363
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2371
+msgid "Installed version:"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2379
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2391
+msgid "Available version:"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2414
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2428
+msgid "Plugin"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2429
+msgid "Source"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2430
+msgid "Type"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2434
+msgid "Version"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2435
+msgid "Status"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2483
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2487
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2492
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2562
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2595
+msgid "Install"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2601
+msgid "Update"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2604
+msgid "Activate"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2635
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2637
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2673
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2675
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2780
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:2806
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3020
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3354
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3356
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3357
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3361
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3362 ../ini/class-tgm-plugin-activation.
+#: php:3368
+msgid "Show Details"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3362 ../ini/class-tgm-plugin-activation.
+#: php:3368
+msgid "Hide Details"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3363
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3367
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3368
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3369
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../ini/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../ini/back-compat.php:35 ../ini/back-compat.php:44 ../ini/back-compat.php:56
+#, php-format
+msgid ""
+"Swallow Blog requires at least WordPress version 4.1. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: ../ini/wp_bootstrap_nav_walker.php:161
+msgid "Add a menu"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:40
+msgid "Social Links"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:42
+msgid "Add social links in the footer"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:47
+msgid "Footer"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:48
+msgid "Controls the footer settings for the theme."
+msgstr ""
+
+#: ../ini/swallow-customizer.php:53
+msgid "Header"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:54
+msgid "Edit header design"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:58
+msgid "Main settings"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:60
+msgid "Edit main page elements"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:65
+msgid "General Settings"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:66
+msgid "Controls general features of the theme."
+msgstr ""
+
+#: ../ini/swallow-customizer.php:70
+msgid "Header background image"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:76
+msgid "Blog"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:77
+msgid "Controls the blog settings for the theme."
+msgstr ""
+
+#: ../ini/swallow-customizer.php:82
+msgid "Widgets"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:83
+msgid "Controls widgets features of the theme."
+msgstr ""
+
+#: ../ini/swallow-customizer.php:89
+msgid "Footer slider option"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:90
+msgid ""
+"Select the footer post slider or instagram feed or no content at all. ** For "
+"the instagram feed you have to register your account in the instagram feed "
+"plugin located in your admin panel! **"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:95
+msgid "No slider/ No Instagram"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:96
+msgid "Post slider"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:97
+msgid "Instagram feed"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:106
+msgid "Set the hero text size"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:127
+msgid "Set the subtitle text size"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:146 ../ini/swallow-customizer.php:182 ..
+#: /ini/swallow-customizer.php:198
+msgid "Change color"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:147
+msgid "Change hero area and navbar line color "
+msgstr ""
+
+#: ../ini/swallow-customizer.php:183
+msgid "Change hero area text color "
+msgstr ""
+
+#: ../ini/swallow-customizer.php:199
+msgid "Change hero area subtext color "
+msgstr ""
+
+#: ../ini/swallow-customizer.php:215
+msgid "Change font size for paragraphs"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:216
+msgid "Select the text font size"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:236
+msgid "Twitter:"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:237
+msgid "Enter your Twitter account"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:245
+msgid "Facebook:"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:246
+msgid "Enter your Facebook account"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:254
+msgid "Tumblr:"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:255
+msgid "Enter your Tumblr account"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:263
+msgid "Youtube:"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:264
+msgid "Enter your Youtube account"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:272
+msgid "Instagram:"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:273
+msgid "Enter your Instagram account"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:281
+msgid "Add background image"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:282
+msgid "Add a background image here."
+msgstr ""
+
+#: ../ini/swallow-customizer.php:292 ../ini/swallow-customizer.php:293 ..
+#: /ini/swallow-customizer.php:308
+msgid "Change front page layout"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:296
+msgid "Grid layout"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:297
+msgid "Standard layout"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:298
+msgid "List layout"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:306
+msgid "Layout configuration"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:307
+msgid ""
+"Set the number of columns that the layout will display *** set page layout "
+"to grid first ***"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:311
+msgid "Two columns"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:312
+msgid "Three columns"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:313
+msgid "Four columns"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:322
+msgid "This is the range control of background image blur."
+msgstr ""
+
+#: ../ini/swallow-customizer.php:323
+msgid "Slide to change the background image blur"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:337
+msgid "Change paragraphs font family"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:338
+msgid "This will change the post paragraps, sidebar paragraphs"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:370
+msgid "Change titles/links font family"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:442
+msgid "Set the details color"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:499
+msgid "Change page title font family"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:515
+msgid "Change subtitle font family"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:532
+msgid "Set sidebar position"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:533 ../ini/swallow-customizer.php:548
+msgid "Select one layout"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:537 ../ini/swallow-customizer.php:552
+msgid "Full Width"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:538 ../ini/swallow-customizer.php:553
+msgid "Left sidebar"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:539 ../ini/swallow-customizer.php:554
+msgid "Right sidebar"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:547
+msgid "Change sidebar position for single post"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:561
+msgid "Set Hero area text"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:569
+msgid "Set Hero area subtext"
+msgstr ""
+
+#: ../ini/swallow-customizer.php:577
+msgid "Custom CSS"
+msgstr ""
+
+#: ../layout/2col.php:43 ../layout/4col.php:43 ../layout/3col.php:43
+msgid " "
+msgstr ""
+
+#: ../layout/2col.php:68 ../layout/4col.php:68 ../layout/3col.php:68
+msgid "Sorry, no posts matched your search criteria."
+msgstr ""
+
+#. Name of the theme
+msgid "The Swallow"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://github.com/ZmagoD/the-swallow"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"The Swallow is built with Bootstrap 3 which has been optimized for "
+"smartphones, tablets, desktops and any other devices is a clean and minimal "
+"blog theme, which emphasizes the content of the blog and impresses with "
+"details. It enables quick and easy color selection and supports popular "
+"features such as Instagram footer area."
+msgstr ""
+
+#. Author of the theme
+msgid "Zmago Devetak, Mateja Bolčina"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://zmagod.com"
+msgstr ""
